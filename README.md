@@ -1,3 +1,5 @@
+### Mean-Variance-Standard deviaton Calculator
+
 About This Project:
 
 This is the first project I completed for the freeCodeCamp Data Analysis with Python certification. I built a tool that takes a list of 9 numbers and turns them into a 3x3 matrix to calculate things like Mean, Variance, and Standard Deviation. It was a great introduction to how Data Analysts actually process numbers in the real world using Python.
